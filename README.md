@@ -1,0 +1,2 @@
+# Flamingo
+Git-Kurs Übung
